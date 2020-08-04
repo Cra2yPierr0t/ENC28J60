@@ -1,0 +1,184 @@
+-- Copyright (C) 2019  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and any partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details, at
+-- https://fpgasoftware.intel.com/eula.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=512;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+0:     4420;
+1:     4420;
+2:     4501;
+3:     4220;
+4:     4301;
+5:     7a0f;
+6:     4221;
+7:     7a66;
+8:     4222;
+9:     7ade;
+a:     4223;
+b:     7aad;
+c:     4224;
+d:     7abe;
+e:     4225;
+f:     7aef;
+10:     4226;
+11:     7a66;
+12:     4227;
+13:     7aba;
+14:     4228;
+15:     7abe;
+16:     4229;
+17:     7aca;
+18:     422a;
+19:     7afe;
+1a:     422b;
+1b:     7aba;
+1c:     422c;
+1d:     7abe;
+1e:     422d;
+1f:     7a86;
+20:     422e;
+21:     7add;
+22:     422f;
+23:     7a55;
+24:     4230;
+25:     7a45;
+26:     4231;
+27:     7a43;
+28:     4232;
+29:     7a55;
+2a:     4233;
+2b:     7a45;
+2c:     4234;
+2d:     7a43;
+2e:     4235;
+2f:     7a55;
+30:     4236;
+31:     7a45;
+32:     4237;
+33:     7a43;
+34:     4238;
+35:     7a55;
+36:     4239;
+37:     7a45;
+38:     423a;
+39:     7a43;
+3a:     423b;
+3b:     7a55;
+3c:     423c;
+3d:     7a45;
+3e:     423d;
+3f:     7a43;
+40:     423e;
+41:     7a55;
+42:     423f;
+43:     7a45;
+44:     4240;
+45:     7a43;
+46:     4241;
+47:     7a55;
+48:     4242;
+49:     7a45;
+4a:     4243;
+4b:     7a43;
+4c:     4244;
+4d:     7a55;
+4e:     4245;
+4f:     7a45;
+50:     4246;
+51:     7a43;
+52:     4247;
+53:     7a55;
+54:     4248;
+55:     7a45;
+56:     4249;
+57:     7a43;
+58:     424a;
+59:     7a55;
+5a:     424b;
+5b:     7a45;
+5c:     424c;
+5d:     7a43;
+5e:     424d;
+5f:     7a55;
+60:     424e;
+61:     7a45;
+62:     424f;
+63:     7a43;
+64:     4250;
+65:     7a43;
+66:     4251;
+67:     7a55;
+68:     4252;
+69:     7a45;
+6a:     4253;
+6b:     7a43;
+6c:     4254;
+6d:     7a55;
+6e:     4255;
+6f:     7a45;
+70:     4256;
+71:     7a43;
+72:     4257;
+73:     7a55;
+74:     4258;
+75:     7a45;
+76:     4259;
+77:     7a43;
+78:     425a;
+79:     7a55;
+7a:     425b;
+7b:     7a45;
+7c:     425c;
+7d:     7a43;
+7e:     425d;
+7f:     7a55;
+80:     425e;
+81:     7a45;
+82:     425f;
+83:     7a43;
+84:     4260;
+85:     7a43;
+86:     4261;
+87:     7a55;
+88:     4262;
+89:     7a45;
+8a:     4263;
+8b:     7a43;
+8c:     4264;
+8d:     7a55;
+8e:     4265;
+8f:     7a45;
+90:     4266;
+91:     7a43;
+92:     4666;
+93:     4701;
+94:     5c00;
+95:     5b88;
+96:     5f08;
+97:     5f08;
+98:     5f08;
+99:     5f08;
+9a:     5f08;
+9b:     5f08;
+9c:     5f08;
+9d:     5f08;
+9e:     5f08;
+END;
